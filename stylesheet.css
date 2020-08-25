@@ -1,0 +1,74 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+ul{
+    list-style: none;
+}
+
+.teamname{
+    font-size:50px;
+    text-align:center;
+    background-color: rgb(107, 115, 235);
+}
+
+body{
+    margin: 0;
+    background-color: rgb(82, 180, 245);
+}
+
+.team{
+    background-color: rgb(228, 139, 37);
+    margin-top:30px;
+    margin-left: 420px;
+    width: 400px;
+}
+
+.team h1{
+    text-align: center;
+}
+
+.team li{
+    margin-left: 50px;
+    margin-top: 20px;
+    font-size: 27px;
+    padding:5px 0px 0px 20px;
+}
+
+.documents{
+    background-color: rgb(89, 231, 96);
+    margin-top:30px;
+    margin-left: 420px;
+    width: 400px;
+}
+
+.documents h2{
+    text-align: center;
+    padding:20px;
+}
+
+.documents li{
+    text-align: center;
+    font-size: 22px;
+    padding:10px 0px 0px 0px;
+}
+
+.expgame{
+    background-color: rgb(255, 245, 100);
+    margin-top:30px;
+    margin-left: 420px;
+    width: 400px;
+
+}
+
+.expgame h3{
+    text-align: center;
+    padding:20px;    
+}
+
+.expgame li{
+    text-align: center;
+    font-size: 22px;
+    padding:10px 0px 0px 0px;
+}
